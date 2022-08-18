@@ -17,6 +17,7 @@
 		04FD7EB728AE418100110562 /* HelloWorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FD7EB628AE418100110562 /* HelloWorldUITests.swift */; };
 		04FD7EB928AE418100110562 /* HelloWorldUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FD7EB828AE418100110562 /* HelloWorldUITestsLaunchTests.swift */; };
 		04FD7EC628AE491C00110562 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FD7EC528AE491C00110562 /* LoginViewController.swift */; };
+		04FD7F0428AE60D300110562 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FD7F0328AE60D300110562 /* Login.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		04FD7EB628AE418100110562 /* HelloWorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITests.swift; sourceTree = "<group>"; };
 		04FD7EB828AE418100110562 /* HelloWorldUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		04FD7EC528AE491C00110562 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		04FD7F0328AE60D300110562 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				04FD7E9E28AE418100110562 /* Assets.xcassets */,
 				04FD7EA028AE418100110562 /* LaunchScreen.storyboard */,
 				04FD7EA328AE418100110562 /* Info.plist */,
+				04FD7F0328AE60D300110562 /* Login.swift */,
 			);
 			path = HelloWorld;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04FD7EC628AE491C00110562 /* LoginViewController.swift in Sources */,
+				04FD7F0428AE60D300110562 /* Login.swift in Sources */,
 				04FD7E9A28AE417C00110562 /* ViewController.swift in Sources */,
 				04FD7E9628AE417C00110562 /* AppDelegate.swift in Sources */,
 				04FD7E9828AE417C00110562 /* SceneDelegate.swift in Sources */,
